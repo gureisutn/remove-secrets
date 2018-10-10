@@ -2,7 +2,7 @@
 # README
 
 # READ SECRET!
-export MONGODB_CREDENTIALS=mongodb://{{USER}}:{{PASSWORD}}@ds666666.mlab.com:39999/some-database
+export MONGODB_CREDENTIALS=mongodb://rsdbuser:rsdbuser1010@ds227373.mlab.com:27373/rsdb
 
 # finally, run the app in dev mode...
 npm run dev
